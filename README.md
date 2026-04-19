@@ -1,1 +1,0 @@
-# Fingerprint-Alteration-Detactor
