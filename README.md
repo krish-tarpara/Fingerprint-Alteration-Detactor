@@ -1,4 +1,4 @@
-# 🔍 Fingerprint Authenticity Detection using CNN
+# 🔍 Fingerprint Alteration Detection using CNN
 
 ## 📌 Overview
 
